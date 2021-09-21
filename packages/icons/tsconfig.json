@@ -1,0 +1,11 @@
+{
+  "extends": "../tsconfig.settings.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "composite": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "esModuleInterop": true
+  },
+  "include": ["src"]
+}

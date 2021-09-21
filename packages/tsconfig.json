@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "references": [
+    { "path": "components" },
+    { "path": "ui" },
+    { "path": "icons" },
+    { "path": "types" },
+    { "path": "utils" }
+  ]
+}
