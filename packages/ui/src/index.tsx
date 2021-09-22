@@ -3,14 +3,13 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { ThemeProvider } from "@material-ui/system";
-import { materialUiTheme } from "@leenus/components";
+import { MaterialUIThemeProvider } from "@lenus/components";
 
 ReactDOM.render(
   <React.StrictMode>
-    <ThemeProvider theme={materialUiTheme}>
+    <MaterialUIThemeProvider>
       <App />
-    </ThemeProvider>
+    </MaterialUIThemeProvider>
   </React.StrictMode>,
   document.getElementById("root")
 );

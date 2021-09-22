@@ -5,7 +5,7 @@ import { SvgIcon } from "@material-ui/core";
 import { blue } from "@material-ui/core/colors";
 import { createTheme, lighten } from "@material-ui/core/styles";
 import React from "react";
-import { CustomStepIcon } from "@leenus/icons";
+import { CustomStepIcon } from "@lenus/icons";
 
 type leenusTheme = {
   colors: Colors;
