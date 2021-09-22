@@ -1,13 +1,13 @@
 // Link to brand book:
-// https://lenus.invisionapp.com/console/Brand-book-ckc32ezng00w60111pa4nt37q/ckc4tmuie00cn017zianygjy8/play
+// https://leenus.invisionapp.com/console/Brand-book-ckc32ezng00w60111pa4nt37q/ckc4tmuie00cn017zianygjy8/play
 
 import { SvgIcon } from "@material-ui/core";
 import { blue } from "@material-ui/core/colors";
 import { createTheme, lighten } from "@material-ui/core/styles";
 import React from "react";
-import { CustomStepIcon } from "@lenus/icons";
+import { CustomStepIcon } from "@leenus/icons";
 
-type LenusTheme = {
+type leenusTheme = {
   colors: Colors;
   fontFamily: string;
   input: {
@@ -89,7 +89,7 @@ type Colors = {
   };
 };
 
-const theme: LenusTheme = {
+const theme: leenusTheme = {
   colors: {
     Primary: "#2A5FE8",
     PrimaryHover: "#0c3ec0",
