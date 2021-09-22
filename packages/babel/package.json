@@ -1,6 +1,6 @@
 {
   "name": "@leenus/babel",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "main": ".babelrc",
   "files": [
@@ -12,5 +12,17 @@
   },
   "engines": {
     "node": "12.x"
+  },
+  "description": "> TODO: description",
+  "author": "Philip Andreas Kingo <philipandreaskingo@hotmail.com>",
+  "homepage": "https://github.com/lenus-ehealth/lerna-poc#readme",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenus-ehealth/lerna-poc.git"
   }
 }
