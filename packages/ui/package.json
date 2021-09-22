@@ -1,9 +1,9 @@
 {
   "name": "@lenuus/ui",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "dependencies": {
-    "@lenuus/components": "^0.1.1",
+    "@lenuus/components": "^0.1.2",
     "@lenuus/icons": "^0.1.0",
     "@lenuus/types": "^0.1.0",
     "@lenuus/utils": "^0.1.0",
