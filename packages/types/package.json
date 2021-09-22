@@ -1,5 +1,5 @@
 {
-  "name": "@lenus/types",
+  "name": "@lenuus/types",
   "version": "0.0.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

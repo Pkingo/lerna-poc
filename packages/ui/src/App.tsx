@@ -1,8 +1,8 @@
 import "./App.css";
-import { Typography, Button, Stack } from "@lenus/components";
-import { Receipt, ReminderIcon } from "@lenus/icons";
-import { User } from "@lenus/types";
-import { isValidEmail } from "@lenus/utils";
+import { Typography, Button, Stack } from "@lenuus/components";
+import { Receipt, ReminderIcon } from "@lenuus/icons";
+import { User } from "@lenuus/types";
+import { isValidEmail } from "@lenuus/utils";
 
 function App() {
   const user: User = {
@@ -13,8 +13,10 @@ function App() {
   return (
     <Stack>
       <Typography variant="h1">Lerna POX</Typography>
-      <Typography variant="body1">Components from @lenus/components</Typography>
-      <Typography variant="body1">And Icons from @lenus/components</Typography>
+      <Typography variant="body1">
+        Components from @lenuus/components
+      </Typography>
+      <Typography variant="body1">And Icons from @lenuus/components</Typography>
       <Receipt />
       <ReminderIcon />
       <pre>{JSON.stringify(user, null, 2)}</pre>

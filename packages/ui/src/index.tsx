@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { materialUiTheme, ThemeProvider } from "@lenus/components";
+import { materialUiTheme, ThemeProvider } from "@lenuus/components";
 
 ReactDOM.render(
   <React.StrictMode>
