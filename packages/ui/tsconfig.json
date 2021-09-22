@@ -1,5 +1,5 @@
 {
-  "extends": "../tsconfig.settings.json",
+  "extends": "@lenus/tsconfig",
   "compilerOptions": {
     "composite": true,
     "lib": ["dom", "dom.iterable", "esnext"],

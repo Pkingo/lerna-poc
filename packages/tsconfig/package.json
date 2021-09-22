@@ -1,0 +1,16 @@
+{
+  "name": "@lenus/tsconfig",
+  "version": "0.0.1",
+  "private": true,
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "volta": {
+    "node": "12.22.6",
+    "yarn": "1.22.11"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@lenus/babel",
+  "version": "0.0.1",
+  "private": true,
+  "main": ".babelrc",
+  "files": [
+    ".babelrc"
+  ],
+  "volta": {
+    "node": "12.22.6",
+    "yarn": "1.22.11"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}

@@ -28,10 +28,10 @@
     "path": "./scripts/workspace"
   },
   "volta": {
-    "node": "14.17.6",
+    "node": "12.22.6",
     "yarn": "1.22.11"
   },
   "engines": {
-    "node": "14.x"
+    "node": "12.x"
   }
 }

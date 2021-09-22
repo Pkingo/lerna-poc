@@ -1,5 +1,5 @@
 {
-  "extends": "../tsconfig.settings.json",
+  "extends": "@lenus/tsconfig",
   "compilerOptions": {
     "jsx": "react",
     "composite": true,
