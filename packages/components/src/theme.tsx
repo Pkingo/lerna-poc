@@ -91,7 +91,7 @@ type Colors = {
 
 const theme: leenusTheme = {
   colors: {
-    Primary: "#FF00FF",
+    Primary: "#2A5FE8",
     PrimaryHover: "#0c3ec0",
     Secondary: "#525661",
     Tetriary: "#25AD60",

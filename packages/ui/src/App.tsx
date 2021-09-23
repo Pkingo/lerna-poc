@@ -12,7 +12,7 @@ function App() {
   };
   return (
     <Stack>
-      <Typography variant="h1">Lerna POC</Typography>
+      <Typography variant="h1">Lerna POOOC</Typography>
       <Typography variant="body1">
         Components from @lenuus/components
       </Typography>
