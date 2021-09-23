@@ -12,11 +12,11 @@ function App() {
   };
   return (
     <Stack>
-      <Typography variant="h1">Lerna POX</Typography>
+      <Typography variant="h1">Lerna POC</Typography>
       <Typography variant="body1">
         Components from @lenuus/components
       </Typography>
-      <Typography variant="body1">And Icons from @lenuus/components</Typography>
+      <Typography variant="body1">And Icons from @lenuus/icons</Typography>
       <Receipt />
       <ReminderIcon />
       <pre>{JSON.stringify(user, null, 2)}</pre>
